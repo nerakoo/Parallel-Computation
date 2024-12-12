@@ -1,0 +1,14 @@
+==PROF== Connected to process 5193 (/home/ubuntu/pa2-pa2-team-no-eye-deer/mmpy)
+==PROF== Profiling "volta_sgemm_64x32_sliced1x4_nn" - 1: 0%....50%....100% - 7 passes
+==PROF== Profiling "volta_sgemm_64x32_sliced1x4_nn" - 2: 0%....50%....100% - 7 passes
+==PROF== Profiling "volta_sgemm_64x32_sliced1x4_nn" - 3: 0%....50%....100% - 7 passes
+==PROF== Profiling "volta_sgemm_64x32_sliced1x4_nn" - 4: 0%....50%....100% - 7 passes
+==PROF== Profiling "volta_sgemm_64x32_sliced1x4_nn" - 5: 0%....50%....100% - 7 passes
+==PROF== Profiling "volta_sgemm_64x32_sliced1x4_nn" - 6: 0%....50%....100% - 7 passes
+==PROF== Profiling "volta_sgemm_64x32_sliced1x4_nn" - 7: 0%....50%....100% - 7 passes
+==PROF== Profiling "volta_sgemm_64x32_sliced1x4_nn" - 8: 0%....50%....100% - 7 passes
+==PROF== Profiling "volta_sgemm_64x32_sliced1x4_nn" - 9: 0%....50%....100% - 7 passes
+==PROF== Profiling "volta_sgemm_64x32_sliced1x4_nn" - 10: 0%....50%....100% - 7 passes
+==PROF== Profiling "matMul" - 11: 0%....50%....100% - 7 passes
+==PROF== Disconnected from process 5193
+==PROF== Report: /home/ubuntu/pa2-pa2-team-no-eye-deer/profile.ncu-rep

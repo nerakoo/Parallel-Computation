@@ -1,0 +1,57 @@
+                    CSE 260, Parallel Computation
+                            (Fall 2024)
+           Department of Computer Science and Engineering 	
+                 University of California, San Diego 	
+
+
+		Team Self Evaluation Form, Assignment #1
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+If you worked alone leave column B blank
+
+(1) List the names of your team members:
+
+A:
+Zhihang Li
+ 
+B:
+Ruijie Li
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                        A 	       B
+meetings 	  	  	8             8
+coding 	  	       22           18
+writeup 	  	       10           13
+planning (alone)       20  	      20 
+total (including meetings) 60      59  	  	  	 
+
+
+(3) Discuss the following.
+(a) If you worked in a team, what were the major responsibilities
+    of each team member?
+In our team, both Zhihang Li and Ruijie Li collaborated closely on all aspects of the project. Zhihang primarily focused on coding and implementing the microkernel optimizations, especially utilizing the ARM SVE instruction set. Ruijie concentrated on testing, debugging, and writing the documentation and report. We both participated equally in planning sessions and meetings, where we discussed strategies and divided tasks to leverage our individual strengths.
+
+(b) Did you complete the assignment?
+Yes, we successfully completed the assignment. We implemented the required optimizations, including packing routines and an SVE-based microkernel. We also conducted performance measurements and analyzed the results on both local machines and the Google Cloud platform.
+
+(c) What were your major strengths and weaknesses in doing this
+    assignment (individually or in a team)?
+    If in a team, also discuss how your team worked together.
+Our major strength was effective teamwork and communication. By combining our skills—Zhihang's proficiency in low-level optimization and Ruijie's attention to detail in testing and documentation—we were able to tackle complex problems efficiently. A weakness we identified was time management; occasionally, we spent excessive time troubleshooting minor issues instead of focusing on more impactful tasks. Overall, our collaborative approach allowed us to overcome challenges and learn from each other.
+
+(d) What  lessons did you learn from these events.
+We learned the importance of adapting code to different hardware architectures, particularly the impact of vector length differences on performance and correctness. The experience highlighted the necessity of thorough testing when deploying code on new platforms. Additionally, we gained valuable insights into low-level optimizations and the practical applications of parallel computing concepts.
+
+(e) If in a team, whether and how you plan to change the way
+    your work together .
+In future collaborations, we plan to improve our time management by setting clearer goals and deadlines for each phase of the project. We intend to prioritize tasks more effectively and allocate our efforts based on the overall impact on the project's success. This approach should enhance our productivity and ensure a more balanced workload distribution.
+
+(f) Anything else that comes to mind.
+We appreciated the opportunity to work with advanced technologies like the ARM SVE instruction set. This project not only reinforced our understanding of parallel computation but also provided practical experience with hardware-specific optimizations. The challenges we faced improved our problem-solving skills and prepared us for future projects involving low-level programming and optimization.
+
+(g) What suggestions do you have to improve this assignment?
+Providing additional guidance on adapting code to different hardware platforms would be beneficial, especially regarding common issues like vector length discrepancies. Including more examples or references for optimized microkernel implementations could help students grasp advanced optimization techniques more quickly. Additionally, offering insights into effective time management strategies for such projects might enhance the overall learning experience.

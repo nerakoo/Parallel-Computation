@@ -1,0 +1,62 @@
+                       CSE 260, Parallel Computation
+                                (Spring 2022)
+                Department of Computer Science and Engineering 	
+                     University of California, San Diego 	
+
+
+		Team Self Evaluation Form, Assignment #2
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+
+(1) List the names of your team members:
+A: Zhihang Li
+B: Ruijie Li
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                        A 	       B
+meetings 	  	       10             10
+coding 	  	  	       35             80
+writeup 	  	       15             45         
+planning (alone) 	       10             12  	 
+total (including meetings)     70             147  	  	 
+
+
+(3) Describe 
+  (a) what the major responsibilities of each team member were;
+Li Zhihang:
+Responsible for the overall planning and coordination of the project to ensure that all tasks are completed on time.
+Participate in requirement analysis and provide preliminary plan for project implementation.
+Assist in code review to ensure code quality and specification.
+Li Ruijie:
+As the main developer of the project, responsible for writing and optimizing the CUDA matrix multiplication kernel code.
+Conduct performance test and analysis, collect and sort out experimental data.
+Prepare project reports, organize project documents, ensure the completeness and readability of project results.
+  (b) whether or not you completed the assignment;
+The project has been successfully completed as scheduled. All the established functional modules have been implemented, and the correctness and performance of the code have been verified by testing. The final project deliverable met the course requirements and expected objectives.
+  (c) the major strengths and weaknesses in your team, e.g. how
+      your team worked together;
+Advantages:
+Efficient communication and collaboration: Team members maintained good communication and were able to solve problems encountered during the project in a timely manner.
+Clear division of duties: Each member has a clear division of duties, which avoids overlapping and omission of tasks and improves work efficiency.
+Strong technical ability: in particular, Li Ruijie showed strong ability in CUDA programming and performance optimization, which provided technical support for the smooth progress of the project.
+Disadvantages:
+Limited resources: Due to the small number of team members, there are slightly insufficient resources on some complex tasks, which may affect the depth of some optimization efforts.
+  (d) the lessons learned from these events;
+Reasonable distribution of tasks: In the case of fewer team members, we should allocate tasks more reasonably to avoid excessive dependence on one member and ensure the steady progress of the project.
+Strengthen time management: Effective time management can improve work efficiency, ensure that all tasks are completed on time, and reduce quality problems caused by tight time.
+Improve multitasking: Being able to handle and prioritize multiple tasks at the same time is an important ability to improve the overall efficiency of the project.
+The importance of communication and feedback: timely communication and feedback help to quickly detect and solve problems, avoid the accumulation and expansion of problems.
+  (e) whether and how you plan to change the way your work together and
+Optimize task allocation: according to each member's strengths and interests, more optimized task allocation, give full play to the advantages of each person.
+Regular team Meeting: Establish regular team meeting mechanism to ensure timely delivery of information and rapid resolution of problems.
+Strengthen skills training: Encourage team members to participate in relevant skills training to improve the overall technical ability and enhance the competitiveness of the project.
+  (f) anything else that comes to mind.
+Improvement of project documents: In future projects, more attention should be paid to the improvement and maintenance of project documents to ensure the sustainable development of the project and the effective inheritance of knowledge.
+Introduce code management tools: Use code management tools such as Git to improve the efficiency of code collaboration and version control, and reduce the occurrence of code conflicts and errors.
+Continuous optimization and iteration: After the project is completed, continue to pay attention to and optimize the code performance, and make necessary iterative updates to ensure the long-term effectiveness of the project results.
+
+

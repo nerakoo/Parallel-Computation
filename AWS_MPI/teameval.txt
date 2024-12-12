@@ -1,0 +1,44 @@
+                       CSE 260, Parallel Computation
+                                (Fall 2024)
+                Department of Computer Science and Engineering 	
+                     University of California, San Diego 	
+
+
+		Team Self Evaluation Form, Assignment #3
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+
+(1) List the names of your team members:
+
+A: Jiayin Meng
+
+ 
+B: Ruijie Li
+
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                        A 	       B
+meetings 	  	       10             10
+coding 	  	  	       65             80
+writeup 	  	       35             25         
+planning (alone) 	       12             12  	 
+total (including meetings)    122             127	 
+
+
+(3) Describe 
+(a) In our team, Jiayin Meng (A) took the lead on the writeup and planning activities, focusing on outlining the structure of the assignment, drafting the report sections, and ensuring that all required materials were well-documented. Jiayin also participated in coding, though to a lesser degree. Ruijie Li (B) concentrated more heavily on the coding tasks—implementing the core logic, managing data structures, and ensuring correctness and performance. Ruijie also contributed to the report, but mainly supported technical explanations and provided input during team discussions and planning meetings.
+
+(b) We successfully completed the assignment as specified. All required features were implemented, tested, and documented. We met the main objectives outlined in the instructions and finalized the report before the deadline.
+
+(c) Our major team strength was complementary skill sets. Jiayin excelled at structuring the solution and delivering a clear, coherent writeup, while Ruijie focused on the technical implementation and debugging. We maintained open communication during our meetings, and each member was proactive in sharing progress and concerns. However, one weakness was the limited number of group meetings. Most tasks were completed individually, and while we synced well through messaging, having more frequent collaborative sessions might have led to even smoother progress and earlier detection of issues.
+
+(d) We learned that early planning and division of responsibilities is essential. Establishing who focuses on coding and who ensures documentation clarity can save time later. We also realized that periodic checkpoints—short discussions about ongoing tasks—help identify challenges before they become significant problems. Additionally, we learned that being flexible is key: when one member is swamped with coding details, the other can step in to handle more administrative or organizational tasks.
+
+(e) In the future, we plan to allocate time for more frequent, shorter check-in meetings. Rather than relying solely on one or two long sessions, brief but regular sync-ups can ensure that everyone remains on track and that no single person becomes a bottleneck. We may also use shared online tools (e.g., a Kanban board or issue tracker) to visualize tasks, deadlines, and responsibilities more transparently.
+
+(f) Overall, the collaboration was productive. Although we each had distinct areas of focus, our team dynamic was supportive and goal-oriented. We see room for refinement in communication strategies and more proactive coordination, but the experience was positive and instructive. We believe these lessons will help us work even more efficiently as a team in future projects.
+
